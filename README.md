@@ -234,6 +234,7 @@
 - [sequenzy-email-marketing](https://clawhub.ai/polnikale/sequenzy-email-marketing) - Operate Sequenzy email marketing workflows for subscribers, campaigns, sequences, and templates.
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - X/Twitter automation skill for search, posting, follower export, monitors, webhooks, and giveaways.
 - [browser-search](https://github.com/Johell1NS/browser-search) - Web search and browsing skill for AI agents with multi-engine search and stealth browsing.
+- [cooper-email](https://github.com/cooper-email/cooper-email/tree/main/skills/cooper-email) - Gives an agent its own email inbox to send, receive, search, and wait for replies or verification codes over MCP or HTTP. Free tier, no card.
 
 ## 📰 Articles & Blog Posts
 
